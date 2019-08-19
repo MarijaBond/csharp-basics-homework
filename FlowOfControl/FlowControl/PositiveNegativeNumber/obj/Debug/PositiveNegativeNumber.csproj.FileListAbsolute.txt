@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe.config
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.pdb

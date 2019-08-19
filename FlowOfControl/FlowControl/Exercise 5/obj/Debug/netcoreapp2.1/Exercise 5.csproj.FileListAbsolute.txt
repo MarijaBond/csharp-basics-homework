@@ -1,0 +1,11 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\Exercise 5.deps.json
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\Exercise 5.runtimeconfig.json
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\Exercise 5.runtimeconfig.dev.json
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\Exercise 5.dll
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\bin\Debug\netcoreapp2.1\Exercise 5.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.AssemblyInfoInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.AssemblyInfo.cs
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.dll
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\Exercise 5\obj\Debug\netcoreapp2.1\Exercise 5.pdb
