@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe.config
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.pdb

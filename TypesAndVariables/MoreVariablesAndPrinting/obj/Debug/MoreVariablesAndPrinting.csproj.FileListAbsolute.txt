@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe.config
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.pdb
