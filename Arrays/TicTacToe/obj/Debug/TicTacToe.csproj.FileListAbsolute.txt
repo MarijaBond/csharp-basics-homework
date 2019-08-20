@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.pdb
