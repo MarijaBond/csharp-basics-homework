@@ -1,0 +1,6 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\CalculateArea\obj\Debug\CalculateArea.pdb

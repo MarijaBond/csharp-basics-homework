@@ -1,0 +1,4 @@
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics\obj\Debug\netcoreapp2.1\Arithmetics.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics\obj\Debug\netcoreapp2.1\Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics\obj\Debug\netcoreapp2.1\Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics\obj\Debug\netcoreapp2.1\Arithmetics.AssemblyInfo.cs
