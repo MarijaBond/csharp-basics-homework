@@ -1,6 +1,0 @@
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.exe.config
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.exe
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.pdb
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.exe
-C:\Users\Marija\Desktop\GitExtensionsmap\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.pdb
