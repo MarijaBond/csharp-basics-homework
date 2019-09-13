@@ -1,0 +1,36 @@
+﻿using System;
+
+namespace MoreVariablesAndPrinting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          
+
+            string name = "Zed A. Shaw";
+            int age = 35;
+            int height = 74;  // inches
+            double heightInCm = height * 2.54;
+            double heightInCmDecimal = System.Math.Round(heightInCm, 2);
+            double weight = 180; // lbs
+            double weightInKilo = weight * 0.453592;
+            double weightInKiloDecimal = System.Math.Round(weightInKilo, 2);
+            string eyes = "Blue";
+            string teeth = "White";
+            string hair = "Brown";
+
+            Console.WriteLine("Let's talk about " + name + ".");
+            Console.WriteLine("He's " + heightInCmDecimal + " centimeters tall.");
+            Console.WriteLine("He's " + weightInKiloDecimal + " kilos heavy.");
+            Console.WriteLine("Actually, that's not too heavy.");
+            Console.WriteLine("He's got " + eyes + " eyes and " + hair + " hair.");
+            Console.WriteLine("His teeth are usually " + teeth + " depending on the coffee.");
+
+            Console.WriteLine("If I add " + age + ", " + heightInCmDecimal + ", and " + weightInKiloDecimal
+                               + " I get " + (age + heightInCmDecimal + weightInKiloDecimal) + ".");
+
+            Console.ReadKey();
+        }
+    }
+}
